@@ -1,0 +1,12 @@
+Dear Twitch,
+
+I would love the opportunity to work as a Data Analyst on the Operational Excellence team.
+
+Gaming has defined much of my life and my generation. In my time at the University of Washington, the League of Legends community provided a home away from home on campus. My experience building collegiate gaming communities at the UW, Riot Games, Matcherino, and Blizzard showed me firsthand the wealth of positive impact a healthy community can have on players' mental and physical well-being. At a global level, Twitch is the largest community hub for English-speaking gamers, and I want to be a part of efforts to bring joy to those very many players.
+
+My experience in the games industry also emphasized the importance of data. Data was the currency with which my ideas were both built and evaluated. As someone on the frontlines of community building and far from insights teams, however, I had a limited effect on analytics priorities. After my time at Riot, I resolved to take control of my data. In the last three years, I have self-studied, taken electives, consulted, and contracted to do just that. I have worked extensively with reporting tools built on SQL DBMS's. In this past year with Avanade, I have also begun developing the technical and mathematical foundations needed to model human intuition and provide predictive capability through artificial intelligence.
+
+Working at Twitch would give me the chance to bring my passions together. I would ensure that decision-makers at Twitch always felt connected to actionable data, enabling them to act with confidence and continuously improve the experience Twitch offers its viewers. I'm extremely passionate about games, highly motivated, and a voracious self-learner, and I'd love to be considered for this role.
+
+Sincerely,
+Rahul Devanarayanan
