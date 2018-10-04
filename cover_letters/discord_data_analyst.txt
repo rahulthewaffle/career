@@ -1,0 +1,16 @@
+Dear Discord,
+
+I would love to work for you in a Data Analytics role.
+
+Gaming has defined much of my life and my generation. In my time at the University of Washington, the League of Legends community provided a home away from home on campus. My experience building collegiate gaming communities at the UW, Riot Games, Matcherino, and Blizzard showed me firsthand the wealth of positive impact a healthy community can have on players' mental and physical well-being. At a global level, Twitch is one of the largest hubs for gamers, and I want to be a part of efforts to bring joy to those very many players.
+
+My experience in the games industry also emphasized the importance of data. Data was the currency with which my ideas were both built and evaluated. As someone on the frontlines of community building and far from insights teams, however, I had a limited effect on analytics priorities. After my time at Riot, I resolved to take control of my data.
+
+In the last three years, I have self-studied, taken electives, consulted, and contracted to do just that. I am an individual whose work begins as collaborative and growth-focused, and who aggressively scales in skillset and domain knowledge as an individual contributor.
+
+My work history reflects this promise. At Avanade this year, I went from a fledgling understanding of OOP in C# to designing and coding significant portions of our ETL pipes as well as owning neural network architecture for our cloud optimization tools and demos. Prior to that, I developed an advanced understanding of SQL through contract projects with Boeing and Apex Learning. Outside of programming, my experiences in esports followed a similarly steep learning curve followed by high impact results.
+
+Working at Discord would give me the chance to bring my passions together. I would ensure that decision-makers at Discord always felt connected to actionable insights, enabling them to act with confidence and continuously improve the user experience. I'm extremely passionate about games, highly motivated, and a voracious self-learner, and I'd love to join your team!
+
+Sincerely,
+Rahul Devanarayanan
