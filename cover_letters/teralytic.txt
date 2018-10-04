@@ -1,0 +1,18 @@
+Dear Teralytic,
+
+I would love to work for you in an Analytics and Machine Learning role.
+
+Teralytic's product is focused on increasing farm productivity by increasing efficiency and sustainability. This is the kind of product I'm always trying to be involved with - one that creates a positive social impact sustained by strong financial performance.
+
+With the breadth and granularity of data streaming through your sensors, I'm confident there are numerous opportunities to develop new features and enhance existing functionality with data science and artificial intelligence.
+
+To be blunt, however, I am not the 7-year industry veteran and PhD graduate who can immediately identify and realize these opportunities for you. Instead, I am the (comparatively) very cheap investment that starts small and collaborative in contributions, and then aggressively scales in skillset and domain knowledge to the ability of a high-value individual contributor. The only thing I would need is an environment that supports technical mentorship and mindshare. In other words, I'm the talent equivalent of a long call option: a low risk hire with a stable lower bound and high potential upside.
+
+My work history reflects this promise. At Avanade this year, I went from a fledgling understanding of OOP in C# to designing and coding large portions of our ETL pipes and owning neural network architecture for our cloud optimization tools and demos. Prior to that, I developed an advanced understanding of SQL through contract projects with Boeing and Apex Learning. Outside of programming experiences, I also had a similarly steep learning curve building national community retention programs for Riot Games and Blizzard Entertainment, the two largest companies in the games and esports industry.
+
+For your further reference, here's my full resume: https://github.com/rahulthewaffle/career/blob/master/rd_resume_si_eco.pdf
+
+I would love to join your team in bringing automation and intelligence to agriculture. I look forward to speaking with you!
+
+Sincerely,
+Rahul Devanarayanan
